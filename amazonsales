@@ -1,0 +1,26 @@
+# Amazon Sales Dashboard 📊
+
+## 🔹 Project Overview
+This project analyzes Amazon sales data and visualizes key insights using **Power BI**.  
+The dashboards help in identifying sales trends, profit analysis, and customer behavior.
+
+## 🔹 Tools Used
+- Tableau
+- Power BI
+- Excel / CSV (Dataset)
+
+## 🔹 Key Insights
+- Top-selling product categories
+- Region-wise sales distribution
+- Monthly profit trends
+- Customer purchase patterns
+
+## 🔹 Files in this Repository
+- `Amazon_Sales_Dashboard.pbix` → Power BI Dashboard
+- `Dataset.csv` → Sample Dataset
+- `Dashboard_Screenshots/` → Screenshots of the dashboards
+
+
+
+---
+✨ Developed by [Surbhi kumari ](https://github.com/surbhi72570)
